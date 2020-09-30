@@ -1,2 +1,1 @@
-# unix
-This project is to keep basic command of git
+# This Project is to keep most frequently unix commands
